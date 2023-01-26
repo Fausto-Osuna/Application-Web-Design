@@ -1,11 +1,8 @@
-# Data
-
-student_data = {
-    name: Luis Faustino Osuna Rivera
-    Registration number: 2886830
-    Degree: College
-    Semester: 5
-    Proffesor name = Victor Fernandez Iñiguez
-}
-
-this Markdown is use for my homework, create a README file
+# My student Data
+--------------------
+#### My name is Luis Faustino Osuna Rivera
+###### My data:
+Registration Number: 2886830.
+Degree: College.
+Semester: 5.
+Profressor's name: Victor Fernadez iñiguez.
